@@ -296,4 +296,4 @@ Incoming Master of Quantitative Finance (NUS)
 
 This repository is actively being expanded into a complete quantitative portfolio research framework throughout the NUS MQF program.
 
-Contributions, feedback, and suggestions are always welcome.# portfolio-optimization-risk-analytics
+Contributions, feedback, and suggestions are always welcome.
