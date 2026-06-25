@@ -209,31 +209,40 @@ Export Results
 The project generates:
 
 - Monte Carlo Efficient Frontier
+  
   <img width="647" height="375" alt="image" src="https://github.com/user-attachments/assets/2948941e-5065-4ebc-b96b-f7e396f8ac14" />
 
 - Portfolio Allocation Charts
+  
   <img width="359" height="390" alt="image" src="https://github.com/user-attachments/assets/4c2f7561-34b0-4848-97c3-6f0a07fd9fd0" />
 
 - Portfolio Growth Comparison
+  
   <img width="646" height="350" alt="image" src="https://github.com/user-attachments/assets/8350f59e-60a7-4241-8d84-0d259504967d" />
 
 - Portfolio Drawdown
+  
   <img width="649" height="348" alt="image" src="https://github.com/user-attachments/assets/12cedf47-84a0-4416-9927-24b5f3d7afbd" />
 
 - Rolling Performance Charts
+  
   <img width="647" height="349" alt="image" src="https://github.com/user-attachments/assets/090bf10e-02a7-41a1-a3e1-124817422cd0" />
 
 - Rolling Beta Charts
+  
   <img width="647" height="351" alt="image" src="https://github.com/user-attachments/assets/3f9a7c27-f302-4f2b-b503-ad01bce46a09" />
 
 - Correlation Heatmap
+  
   <img width="648" height="389" alt="image" src="https://github.com/user-attachments/assets/e146a741-8afb-4198-bc0d-371bc8013ad1" />
 
 - Portfolio Summary Tables
 - CAPM Summary Tables
+  
   <img width="1091" height="547" alt="image" src="https://github.com/user-attachments/assets/856b2e0d-86bf-4a0a-973a-e18d14496319" />
 
 - Risk Summary Tables
+  
   <img width="399" height="248" alt="image" src="https://github.com/user-attachments/assets/b775708e-0b75-4ef9-b351-80ea193cdf60" />
 
 ---
